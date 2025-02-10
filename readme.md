@@ -1,4 +1,4 @@
-** "In this lab, we will create an agent that writes blogs for you based on prompts you provide. First, we use the Composio component, which automatically reads the email of the person you enter in the chatbot. If a URL is found in the email body, the agent will extract content from that URL and generate a blog based on the prompt you define. **
+**"In this lab, we will create an agent that writes blogs for you based on prompts you provide. First, we use the Composio component, which automatically reads the email of the person you enter in the chatbot. If a URL is found in the email body, the agent will extract content from that URL and generate a blog based on the prompt you define.**
 
 To build this, we are using LangFlow, a Node.js-based tool platform.
 
